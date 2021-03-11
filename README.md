@@ -1,6 +1,8 @@
-# react-boilerplate
+# react-flats
 
-Simple react starter with the following config:
+React application hosting flats with a map displaying their location.
+
+With Le Wagon's simple react boilerplate with the following config:
 
 - React, ReactDOM
 - Webpack 4
